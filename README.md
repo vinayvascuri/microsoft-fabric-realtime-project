@@ -47,6 +47,9 @@ The Power BI semantic layer uses Fabric's **Direct Lake mode** for real-time str
 
 <img width="1645" height="888" alt="image" src="https://github.com/user-attachments/assets/66b07c81-bada-46e4-91bd-4cdd7cb2af61" />
 
+<img width="1703" height="1072" alt="image" src="https://github.com/user-attachments/assets/a8440214-600b-423d-a2d1-cbcc48113715" />
+
+
 
 
 
