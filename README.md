@@ -11,7 +11,7 @@ This project designs and implements an automated data pipeline using **Microsoft
 * **Orchestration & Ingestion:** Microsoft Fabric Data Factory (Pipelines & Get Metadata)
 * **Storage Layer:** Azure Data Lake Storage (ADLS Gen2) & Fabric Lakehouse (Delta Lake / Parquet)
 * **Processing Engine:** Apache Spark (PySpark Core DataFrames API)
-## 📊 Business Intelligence & Power BI Layer) The final Gold flat view table (`gold_customer_360`) leverages Fabric's cutting-edge **Direct Lake mode**. Unlike traditional Import mode (which incurs massive compute/refresh overhead) or DirectQuery (which suffers from sluggish SQL processing latencies), Direct Lake mode allows Power BI to run DAX expressions straight over the underlying Delta Parquet storage files.
+* **Business Intelligence & Power BI Layer)**  The final Gold flat view table (`gold_customer_360`) leverages Fabric's cutting-edge **Direct Lake mode**. Unlike traditional Import mode (which incurs massive compute/refresh overhead) or DirectQuery (which suffers from sluggish SQL processing latencies), Direct Lake mode allows Power BI to run DAX expressions straight over the underlying Delta Parquet storage files.
 
 ---
 
