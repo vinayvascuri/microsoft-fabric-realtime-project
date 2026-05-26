@@ -34,5 +34,10 @@ The Power BI semantic layer uses Fabric's **Direct Lake mode** for real-time str
 * **Geographic Spend Mapping:** Pinpointing high-value regional user cohorts.
 * **Device Trapping Metrics:** Tracks channel patterns (Mobile vs Web) which flagged critical data-capture issues to product managers due to null device identifiers.
 
+
+
+
 ---
+<img width="2273" height="1123" alt="image" src="https://github.com/user-attachments/assets/ef5605d9-3adc-4ecb-b218-d3af5ffbf1a8" />
+
 
